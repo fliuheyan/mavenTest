@@ -1,0 +1,5 @@
+#surefire
+#Wed Mar 27 21:35:26 GMT+08:00 2013
+user.dir=C\:\\workspace\\maven.test.project\\maven.test.domain
+localRepository=C\:\\Users\\Administrator\\.m2\\repository
+basedir=C\:\\workspace\\maven.test.project\\maven.test.domain
